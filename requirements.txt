@@ -1,3 +1,5 @@
+# requeriments.txt
 streamlit
 snowflake-snowpark-python
+requests
 
